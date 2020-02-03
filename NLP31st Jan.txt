@@ -1,0 +1,13 @@
+NLP Task 31st Jan
+
+Performance of Stemmers
+-Porter
+-lancester
+-Snowball 
+-Regexp stemmer
+
+
+Glover by Stanford
+sharmilak.scse2019@gmail.com
+
+Vectorization Code
